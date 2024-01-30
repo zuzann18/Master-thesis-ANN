@@ -8,7 +8,7 @@ Celem pracy będzie rozpoznanie za pomocą Sztucznej sieci Neuronowej:
 2)	liter z bazy danych https://huggingface.co/datasets/pittawat/letter_recognition
 
 1. **Opis problemu**:
-Moja praca magisterska koncentruje się na rozpoznawaniu wzorców znaków przy użyciu sztucznych sieci neuronowych (SSN). Zajmuję się opracowaniem i treningiem modeli SSN zdolnych do identyfikacji liter utworzonych na matrycach o różnych rozmiarach, a także rozpoznawaniem pisma odręcznego. Problemem biznesowym, który ten model ma rozwiązać, jest potrzeba efektywnego i automatycznego przetwarzania informacji wizualnych na dane cyfrowe, które mogą być łatwo przeszukiwane i analizowane przez systemy komputerowe.
+Moja praca magisterska koncentruje się na rozpoznawaniu wzorców znaków przy użyciu sztucznych sieci neuronowych (SSN). Zajmuję się opracowaniem i treningiem modeli SSN zdolnych do identyfikacji liter utworzonych na matrycach. Problemem biznesowym, który ten model ma rozwiązać, jest potrzeba efektywnego i automatycznego przetwarzania informacji wizualnych na dane cyfrowe, które mogą być łatwo przeszukiwane i analizowane przez systemy komputerowe.
 
 2. **Uzasadnienie biznesowe**:
 Automatyzacja procesu rozpoznawania tekstu ma szerokie zastosowanie w różnych branżach. Na przykład, w bankowości można automatyzować procesy wprowadzania danych czeków, w medycynie - cyfryzować ręcznie zapisane recepty, a w logistyce - usprawniać odczytywanie adresów na paczkach. 
@@ -29,8 +29,7 @@ Głównym elementem mojej pracy jest projektowanie, implementacja i trening siec
 - Rozdział III: Prezentacja i analiza wyników rozpoznawania znaków na różnych matrycach oraz pisma odręcznego.
 - Rozdział IV: Dyskusja nad potencjalnymi korzyściami biznesowymi wynikającymi z zastosowania SSN w rozpoznawaniu pisma ręcznego i wnioski końcowe.
 
-matryce znaków bedą robione w gimpie 8 pikseli x8 pikseli itd.  Praca w pythonie. 
-
+matryce znaków bedą robione w gimpie.
 # Todo
 - data processing
 - train models
